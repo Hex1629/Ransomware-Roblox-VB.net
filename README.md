@@ -14,7 +14,7 @@ Do not use it as a ransomware! for attack other.
 
 [1] Some files has delete by decryption (its one files)
 
-[2] Some os windows (ransomware note very big and can't decrypt)
+[2] Some os windows (can't decrypt because ransomware note very big)
 
 **Usage**
 

@@ -17,7 +17,7 @@ Do not use it as a ransomware! for attack other.
 
 Webhook.vb
 ```
-{"username", "Ransomware.Side"}, {"avatar_url", "link photos"}
+{"username", "Name user"}, {"avatar_url", "link photos"}
 ```
 
 From1.vb

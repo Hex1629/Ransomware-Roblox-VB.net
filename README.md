@@ -1,5 +1,5 @@
-# Ransomware-Roblox-VB.net-POC-
-Ransomware Roblox (JIgsaw) (Decryption Free) (But one files delete bug)
+# Ransomware Roblox VB.net POC
+Ransomware Roblox (JIgsaw)
 
 Only for testing purposes and run with sandbox
 
@@ -8,6 +8,10 @@ Only for testing purposes and run with sandbox
 While this may be helpful for some.
 ransomware used only for Testing purposes.
 Do not use it as a ransomware! for attack other.
+
+# Bug Ransomware
+
+[1] Some files has delete by decryption (its one files)
 
 **Usage**
 

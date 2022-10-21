@@ -1,5 +1,6 @@
 # Ransomware Roblox VB.net POC
-Ransomware Roblox (JIgsaw)
+
+Ransomware Roblox (JIgsaw) or Ransomware 44E1B2376B9BBFE9DD4E01026E54645D
 
 Only for testing purposes and run with sandbox
 

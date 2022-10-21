@@ -1,6 +1,27 @@
+```
+                       ______
+                    .-"      "-.
+                   /            \
+       _          |              |          _
+      ( \         |,  .-.  .-.  ,|         / )
+       > "=._     | )(__/  \__)( |     _.=" <
+      (_/"=._"=._ |/     /\     \| _.="_.="\_)
+             "=._ (_     ^^     _)"_.="
+                 "=\__|IIIIII|__/="
+                _.="| \IIIIII/ |"=._
+      _     _.="_.="\          /"=._"=._     _
+     ( \_.="_.="     `--------`     "=._"=._/ )
+      > _.="                            "=._ <
+     (_/                                    \_)
+```
+
 # Ransomware Roblox VB.net POC
 
 Ransomware Roblox (Not Jigsaw <-- I fix this name) or Ransomware 44E1B2376B9BBFE9DD4E01026E54645D
+
+Its not family jigsaw
+
+I think popup title look like jigsaw
 
 Only for testing purposes and run with sandbox
 
